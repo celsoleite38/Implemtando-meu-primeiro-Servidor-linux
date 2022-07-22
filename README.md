@@ -1,8 +1,9 @@
-# Dio-Ddesafio-GitHub - Linux Experience
+# Dio-Desafio-GitHub - Linux Experience
 Desafio de projeto git/github
 
 Neste repositorio Comitei meu codigo onde implementei um servidor Linux usando o Linux Debian versão 8 e foi implementado tres serviços que foram necessario e também pedido pelo cilente.
-Servidor DHCP, Samba(servidor de arquivos), e Squid (servidor proxy)
+Servidor DHCP, Samba(servidor de arquivos), e Squid (servidor proxy).
+Quem quizer e ou puder melhorar estes codigos fico agradecido e lisonjeado pela colaboraçao.
 
 Na plataforma DIO estou desenvolvendo minha habilidades de arquiteto de redes linux. 
 Quem estiver interessados e saber mais sobre o projeto de Linux Experience acesse em links informativos
